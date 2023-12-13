@@ -1,1 +1,1 @@
-# web_golang
+# Projeto de estudo de Go para web
